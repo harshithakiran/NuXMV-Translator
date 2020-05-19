@@ -1,0 +1,1 @@
+sp {proposeInitialize (state <s> ^name ^superstate nil) --> (<s> ^operator <o> +)(<o> ^name  initialize)}
